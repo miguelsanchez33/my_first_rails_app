@@ -2,10 +2,10 @@
 
 one:
   make: MyString
-  model: 
+  model: MyString
   year: 1
 
 two:
   make: MyString
-  model: 
+  model: MyString
   year: 1
